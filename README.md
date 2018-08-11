@@ -1,0 +1,2 @@
+# ansibleat
+Ansible advanced assigment 
